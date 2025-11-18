@@ -1,2 +1,40 @@
-# Image-Classification-Dataset-Synthetic-
-A powerful image classification system that supports:  Custom CNN from scratch  Transfer Learning using ResNet50, VGG16, and MobileNetV2  Automated hyperparameter tuning  Data augmentation  Model comparison charts  Saving and loading trained models  Ideal for real-world computer vision tasks.
+# AI-Powered Image Classification (CNN + Transfer Learning)
+
+This project demonstrates a complete image classification system supporting:
+
+- Training a CNN from scratch
+- Transfer learning with pretrained models (ResNet50, VGG16, MobileNetV2)
+- Data augmentation
+- Hyperparameter tuning
+- Model evaluation + comparison charts
+- Saving/loading trained models
+
+---
+
+## ✨ Features
+
+### ✔ Train CNN from scratch  
+### ✔ Transfer Learning  
+- ResNet50  
+- VGG16  
+- MobileNetV2  
+
+### ✔ Data Augmentation  
+### ✔ Model comparison charts  
+### ✔ Save / Load / Evaluate Models  
+
+---
+
+## 🚀 Tech Stack
+
+- TensorFlow / Keras  
+- OpenCV  
+- NumPy  
+- Matplotlib  
+
+---
+
+## 📦 Installation
+
+```bash
+pip install -r requirements.txt
